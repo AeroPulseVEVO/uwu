@@ -1,0 +1,48 @@
+{
+  "username": "Dumb Slut",
+  "avatar_url": "https://imgur.com/7lOPjND.jpg",
+  "content": "Text message. Up to 2000 characters.",
+  "embeds": [
+    {
+      "author": {
+        "name": "bea",
+        "url": "https://www.youtube.com/watch?v=3SyzalvPX60/",
+        "icon_url": "https://i.imgur.com/R66g1Pe.jpg"
+      },
+      "title": "this a test",
+      "url": "https://www.youtube.com/watch?v=3SyzalvPX60",
+      "description": "wow i can actually do this",
+      "color": 15258703,
+      "fields": [
+        {
+          "name": "uwu",
+          "value": "uwu number 2",
+          "inline": true
+        },
+        {
+          "name": "uwu the third",
+          "value": "hehe",
+          "inline": true
+        },
+        {
+          "name": "painal",
+          "value": "okay..."
+        },
+        {
+          "name": "Thanks!",
+          "value": "You're welcome :wink:"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://i.imgur.com/OallENn.png"
+      },
+      "image": {
+        "url": "https://i.imgur.com/YDdi4nz.jpeg"
+      },
+      "footer": {
+        "text": "just fucked my cat :pensive:",
+        "icon_url": "https://i.imgur.com/eoJoXNA.jpg"
+      }
+    }
+  ]
+}
